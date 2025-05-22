@@ -1,4 +1,3 @@
-package program4;
 class Course {
     String name;
     int marks;
